@@ -523,6 +523,17 @@ border-radius: 20px;
 footer{
     margin-top:150px;
 }
+footer .row{
+    
+    margin-top: 30px;
+}
+footer .box-container{
+display: flex;
+}
+footer img{
+width:167px;
+height: 42px;
+}
 footer p{
     margin-top: 30px;
 }
