@@ -1,0 +1,574 @@
+@media (max-width: 575.98px) { 
+    .btn{
+        font-size: 16px;
+        line-height: 23px;
+        padding: 5px 15px;
+        }
+    .top-banner{
+        position: static;
+    }
+    .navbar-toggler{
+        border:0;
+        outline:0;
+
+
+
+    }
+    .navbar-toggler:focus{
+        border:0;
+        outline:0;
+        box-shadow: none;
+    }
+    /* ....................... */
+    .banner{
+        max-height:100%;
+        }
+    .banner .item .content h1 {
+        font-size: 26px;
+        line-height:120%;
+    }
+    .banner .item .images img{
+        height: 287px;
+      }
+      .banner .item  .content{
+        bottom:40px;
+        padding:0 14px;
+    }
+ 
+    .banner .item .content p {
+         font-size: 13px;
+        line-height: 21px;
+        margin: 12px auto 19px;
+        
+    }
+    .banner .btn{
+        /* margin-top: 15px; */
+    }
+    .slick-slider .slick-dots{
+        bottom: 5px;
+    }
+    .slick-slider .slick-dots li button {
+        width: 21px;
+        height: 21px;
+        border: 2px solid #4756DF;
+    }
+/* ....................... */
+   
+
+.success-section .container{
+    padding:32px 16px;
+        margin-top: 50px;
+}
+
+.success-section .container .right {
+        flex-direction: column;
+        row-gap: 20px;
+        margin-top: 20px;
+    }
+.success-section .container .right .one,
+.success-section .container .right .two,
+.success-section .container .right .three{
+    padding:20px;
+    border:1px solid #272727;
+}
+    .success-section .container .right p {
+
+        margin-top: 7px;
+        line-height: 78%;
+  
+    }
+    .success-section .container .left h3 {
+        font-size: 18px;
+        line-height:26px; 
+    }
+    .success-section .container .left h2 {
+        font-size: 22px;
+        margin-top: 6px;
+    }
+    .success-section .container .right h2 {
+        font-size: 36px;
+    }
+/* .................................... */
+    .service {
+        margin-top: 50px;
+    }
+    .title h2 {
+        font-size: 32px;
+
+    }
+    .title p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service .box {
+        padding: 35px 24px 35px;
+    }
+    .service .box img {
+        width: 80px;
+        height: 66px;
+    }
+    .service .box h2 {
+        font-size: 22px;
+        margin: 15px 0 ;
+    }
+    .service .box p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    /* ............................ */
+    .recent-work {
+        margin-top: 50px;
+        padding: 35px 0;
+        background: #F3F3F3;
+    }
+    .recent-work .row {
+        row-gap: 35px;
+        margin-top: 50px;
+    }
+
+    .recent-work .box {
+       padding: 24px;
+    } 
+    .recent-work .box img {
+        width: 100%;
+        /* width: 424px; */
+        height:275px;
+        border-radius: 20px;
+    }
+    .recent-work .box .content {
+        padding: 24px 0;
+    }
+/* ........................... */
+.choose {
+    margin-top:50px;
+}
+
+.choose .title h2 {
+    font-size: 26px;
+}
+.choose .title p {
+    font-size: 13px;
+}
+.choose .row {
+    margin-top: 50px;
+    row-gap: 24px;
+}
+.choose .box-container {
+    /* padding:24px;
+    align-items: center;
+    justify-content: center; */
+    row-gap: 24px;
+}
+.choose .box-container .box{
+    padding:20px;
+    border:1px solid #272727;
+}
+.choose .images{
+    padding:20px;
+}
+.choose .images img{
+    height: auto;
+}
+/* .............................. */
+.review {
+    margin-top: 50px;
+}
+.review .row .box img {
+    width: 40px;
+}
+.review .title h2 {
+    font-size: 22px;
+}
+.review .row .box p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 10px 0;
+}
+.review .title p {
+    font-size: 13px;
+}
+.review .row {
+    margin:50px 20px;
+    
+}
+.review .row .bg {
+    padding: 18px 16px;
+    border-radius: 8px;
+}
+.review .row .box .auther-details {
+    margin-top: 12px;
+}
+
+/* ............................. */
+.contact {
+    margin-top: 50px;
+    padding: 50px 18px;
+}
+
+.contact h2{
+    font-size: 22px;
+    line-height: 25px;
+}
+.contact p{
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 15px; 
+}
+.contact form {
+    margin-top:30px;
+    padding: 24px 24px;
+    border-radius: 10px;
+}
+.contact form input {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 8px 12px;
+    margin-top: 7px;
+    margin-bottom: 14px;
+    border-radius: 8px;
+}
+.contact form h3 {
+    font-size: 22px;
+    line-height: 26px;
+}
+/* ...................................... */
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
+footer .row{
+   gap:20px
+}
+footer img{
+    width: 80px;
+    
+}
+footer p {
+    margin-top: 18px;
+}
+footer h3 {
+
+    font-size: 18px;
+    line-height: 17px;
+    margin-top: 10px;
+    text-align: center;
+}
+footer ul {
+ 
+    margin-top: 15px;
+}
+footer ul li a {
+     font-size: 16px;
+    line-height: 26px;
+
+}
+footer .devaider {
+    margin-top: 40px;
+
+}
+.copyright p {
+
+    line-height: 22px;
+}
+}
+
+
+@media (max-width: 767.98px) { 
+    .btn{
+        font-size: 16px;
+        line-height: 23px;
+        padding: 5px 15px;
+        }
+    .top-banner{
+        position: static;
+    }
+    .navbar-toggler{
+        border:0;
+        outline:0;
+
+
+
+    }
+    .navbar-toggler:focus{
+        border:0;
+        outline:0;
+        box-shadow: none;
+    }
+    /* ....................... */
+    .banner{
+        max-height:100%;
+        }
+    .banner .item .content h1 {
+        font-size: 26px;
+        line-height:120%;
+    }
+    .banner .item .images img{
+        height: 287px;
+      }
+      .banner .item  .content{
+        bottom: 67px;
+        padding:0 14px;
+    }
+ 
+    .banner .item .content p {
+         font-size: 13px;
+        line-height: 21px;
+        margin: 12px auto 19px;
+        
+    }
+    .banner .btn{
+        /* margin-top: 15px; */
+    }
+    .slick-slider .slick-dots{
+        bottom: 21px;
+    }
+    .slick-slider .slick-dots li button {
+        width: 21px;
+        height: 21px;
+        border: 2px solid #4756DF;
+    }
+/* ....................... */
+   
+
+.success-section .container{
+    padding: 62px 26px;
+    margin-top: 75px;
+    border-radius: 0;
+}
+.success-section .row{
+    row-gap: 40px;
+}
+.success-section .container .right {
+        flex-direction: column;
+        row-gap: 20px;
+        margin-top: 20px;
+        column-gap: 26px;
+        justify-content: space-between;
+    }
+.success-section .container .right .one,
+.success-section .container .right .two,
+.success-section .container .right .three{
+    padding:20px;
+    border:1px solid #272727;
+}
+    .success-section .container .right p {
+
+        margin-top: 7px;
+        line-height: 78%;
+  
+    }
+    .success-section .container .left{
+        text-align: center;
+    }
+    .success-section .container .left h3 {
+        font-size: 18px;
+        line-height:26px; 
+    }
+    .success-section .container .left h2 {
+        font-size: 22px;
+        margin-top: 6px;
+    }
+    .success-section .container .right h2 {
+        font-size: 36px;
+    }
+/* .................................... */
+    .service {
+        margin-top: 50px;
+    }
+    .service .container{
+        padding:0 24px;
+    }
+    .title h2 {
+        font-size: 32px;
+
+    }
+    .title p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service .box {
+        padding: 35px 24px 35px;
+    }
+    .service .box img {
+        width: 80px;
+        height: 66px;
+    }
+    .service .box h2 {
+        font-size: 22px;
+        margin: 15px 0 ;
+    }
+    .service .box p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    /* ............................ */
+    .recent-work {
+        margin-top: 50px;
+        padding: 66px 24px;
+        background: #F3F3F3;
+    }
+  
+    .recent-work .row {
+        row-gap: 35px;
+        margin-top: 50px;
+    }
+
+    .recent-work .box {
+       padding: 24px;
+    } 
+    .recent-work .box img {
+        width: 100%;
+        /* width: 424px; */
+        height:275px;
+        border-radius: 20px;
+    }
+    .recent-work .box .content {
+        padding: 24px 0;
+    }
+/* ........................... */
+.choose {
+    margin-top:50px;
+}
+.choose .container{
+    padding: 66px 24px;
+}
+.choose .title h2 {
+    font-size: 26px;
+}
+.choose .title p {
+    font-size: 13px;
+    max-width: 80%;
+}
+.choose .row {
+    margin-top: 50px;
+    row-gap: 24px;
+}
+.choose .box-container {
+    flex-direction: row;
+   column-gap: 24px;
+}
+.choose .box-container .box{
+    padding:20px;
+    border:1px solid #272727;
+    text-align: center;
+}
+
+.choose .images{
+    padding:20px;
+  
+    margin:0 auto;
+}
+
+/* .............................. */
+.review {
+    margin-top: 50px;
+}
+.review .row .box img {
+    width: 40px;
+}
+.review .title h2 {
+    font-size: 22px;
+}
+.review .row .box p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 10px 0;
+}
+.review .title p {
+    font-size: 13px;
+}
+.review .row {
+    margin:50px 20px;
+    
+}
+.review .row .bg {
+    padding: 18px 16px;
+    border-radius: 8px;
+}
+.review .row .box .auther-details {
+    margin-top: 12px;
+}
+
+/* ............................. */
+.contact {
+    margin-top: 50px;
+    padding: 50px 18px;
+}
+.contact .container  .content{
+    padding:30px;
+    text-align: center;
+}
+.contact h2{
+    margin: 0 auto;
+    font-size: 22px;
+    line-height: 25px;
+}
+.contact p{
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 15px; 
+}
+.contact form {
+    margin-top:30px;
+    padding: 50px ;
+    border-radius: 10px;
+}
+.contact form input {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 8px 12px;
+    margin-top: 7px;
+    margin-bottom: 14px;
+    border-radius: 8px;
+}
+.contact form h3 {
+    font-size: 22px;
+    line-height: 26px;
+}
+/* ...................................... */
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
+footer .row{
+    margin-top:50px;
+   gap:0px;
+}
+footer img{
+    width: 80px;
+    
+}
+footer p {
+    margin-top: 18px;
+}
+footer h3 {
+
+    font-size: 18px;
+    line-height: 17px;
+    margin-top: 10px;
+    text-align: center;
+}
+footer ul {
+ 
+    margin-top: 15px;
+}
+footer ul li a {
+     font-size: 16px;
+    line-height: 26px;
+
+}
+footer .devaider {
+    margin-top: 40px;
+
+}
+.copyright p {
+
+    line-height: 22px;
+}
+}
+
+
+
+
+
+ 
