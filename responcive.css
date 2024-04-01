@@ -1,7 +1,8 @@
-
-
-
-
+@media (max-width: 1399.98px) { 
+    footer .row {
+        row-gap: 30px;
+    }
+ }
 @media (max-width: 1199.98px) { 
     .recent-work .row {
       
@@ -16,8 +17,6 @@
     }
 
 }
-
-
 @media (max-width: 991.98px) {
     .banner .item .content h1 {
         font-size: 52px;
@@ -69,11 +68,6 @@
     }
 
 }
-
-
-
-
-
 @media (max-width: 767.98px) {
     .btn {
         font-size: 16px;
@@ -377,7 +371,7 @@
 
     footer .row {
         margin-top: 50px;
-        gap: 0px;
+        gap: 30px;
     }
 
     footer .box-container {
@@ -417,13 +411,6 @@
         line-height: 22px;
     }
 }
-
-
-
-
-
-
-
 @media (max-width: 575.98px) {
     .btn {
         font-size: 16px;
