@@ -48,9 +48,7 @@ $('.review .row').slick({
   ]
 });
 
-
 const menu = document.querySelector('.menu')
-
 const toggle = () => {
   menu.classList.toggle('show')
 
