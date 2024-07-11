@@ -61,7 +61,22 @@ img{
     margin-top: 20px;
 }
 
+.show {
+    opacity: 1;
+    visibility: visible;
+}
 /* ///////////////////// nav bar //////////////////////// */
+@media  (max-width:768px) {
+    .navbar-nav{
+        padding:14px;
+        background: #d0d0d0;
+        position:absolute;
+        z-index: 1000;
+        display: block;
+        width:100%;
+        border-radius: 8px;
+    }
+}
 .top-banner{
     position: absolute;
     top:50px;
